@@ -7,9 +7,5 @@ public class A{
 		///HELLOW WWIJWIWIWJIW
 		..
 		/////
-
-
-
-		//okokokok
 	}
 }
